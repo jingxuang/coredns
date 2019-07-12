@@ -253,7 +253,8 @@
 		{
 			"checksumSHA1": "hdHDMK7aX5FKIg1UKCZz/4dRRh8=",
 			"path": "github.com/coredns/proxy/healthcheck",
-			"revision": ""
+			"revision": "ce7578ebb7dd0d69105a9fc011459afe035095f8",
+			"revisionTime": "2019-07-03T06:12:57Z"
 		},
 		{
 			"path": "github.com/coreos/etcd",
@@ -804,6 +805,12 @@
 			"revisionTime": "2019-03-13T11:33:46Z"
 		},
 		{
+			"checksumSHA1": "Xf7TwBAdBTSSeTlEzqFH1Deglbk=",
+			"path": "go.etcd.io/etcd/pkg/systemd",
+			"revision": "e56e8471ec1870df699fde0bcf8d3e5bee5221be",
+			"revisionTime": "2019-07-11T16:24:06Z"
+		},
+		{
 			"checksumSHA1": "mhit7z0mYvIEE/OMrskNBBZcVUI=",
 			"path": "go.etcd.io/etcd/raft",
 			"revision": "e56e8471ec1870df699fde0bcf8d3e5bee5221be",
@@ -925,6 +932,12 @@
 			"revision": ""
 		},
 		{
+			"checksumSHA1": "f3Y7JIZH61oMmp8nphqe8Mg+XoU=",
+			"path": "golang.org/x/net/internal/socks",
+			"revision": "da137c7871d730100384dbcf36e6f8fa493aef5b",
+			"revisionTime": "2019-06-28T18:40:41Z"
+		},
+		{
 			"checksumSHA1": "UxahDzW2v4mf/+aFxruuupaoIwo=",
 			"path": "golang.org/x/net/internal/timeseries",
 			"revision": "da137c7871d730100384dbcf36e6f8fa493aef5b",
@@ -941,6 +954,12 @@
 			"origin": "github.com/miekg/dns/vendor/golang.org/x/net/ipv6",
 			"path": "golang.org/x/net/ipv6",
 			"revision": ""
+		},
+		{
+			"checksumSHA1": "28Sn0XihdqNv3MysxyRalibC3Tg=",
+			"path": "golang.org/x/net/proxy",
+			"revision": "da137c7871d730100384dbcf36e6f8fa493aef5b",
+			"revisionTime": "2019-06-28T18:40:41Z"
 		},
 		{
 			"checksumSHA1": "HvmG9LfStMLF+hIC7xR4SxegMis=",
